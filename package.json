@@ -1,0 +1,24 @@
+{
+  "name": "social-network-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernypoo92/social-network-backend.git"
+  },
+  "author": "Aaron Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernypoo92/social-network-backend/issues"
+  },
+  "homepage": "https://github.com/ernypoo92/social-network-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}
